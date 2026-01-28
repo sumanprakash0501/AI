@@ -1,4 +1,4 @@
 dotenv
 openai
 pypdf
-gradio
+gradio>=4.0.0
