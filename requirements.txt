@@ -3,3 +3,5 @@ openai
 pypdf
 gradio>=4.0.0
 requests
+openai-agents
+sendgrid
